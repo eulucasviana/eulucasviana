@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eulucasviana&label=Profile%20views&color=0e75b6&style=flat" alt="eulucasviana" /> </p>
 
-- 🌱 Estudando **Cursando Ciência da Computação e estudando React Native**
+- 🌱 Cursando **Ciência da Computação e estudando React Native**
 
 - 👨‍💻 Você pode ver meu portifolio online [www.lucasvianamello.com.br](www.lucasvianamello.com.br)
 
