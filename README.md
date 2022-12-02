@@ -11,7 +11,6 @@
 
 - 📫 Mande um E-mail **atendimento@lucasvianamello.com.br**
 
-- 📄 Sobre minhas experiências [A 2 anos faço desenvolvimento de sites para négocios locais em minha cidade e a 3 anos faço desenvolvimento de alguns projetos dentro do FiveM](A 2 anos faço desenvolvimento de sites para négocios locais em minha cidade e a 3 anos faço desenvolvimento de alguns projetos dentro do FiveM)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
