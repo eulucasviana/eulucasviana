@@ -7,7 +7,7 @@
 
 - 👨‍💻 Você pode ver meu portifolio online [www.lucasvianamello.com.br](www.lucasvianamello.com.br)
 
-- 💬 Sobre **Lua, PHP, HTML e CSS**
+- 💬 Sobre **Javascript, HTML e CSS**
 
 - 📫 Mande um E-mail **atendimento@lucasvianamello.com.br**
 
