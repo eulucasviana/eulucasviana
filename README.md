@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Viana</h1>
-<h3 align="center">I'm a Full-Stack Developer</h3>
+<h3 align="center">I'm a UI/UX & Front-End Developer/</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olucasviana&label=Profile%20views&color=0e75b6&style=flat" alt="olucasviana" /> </p>
 
